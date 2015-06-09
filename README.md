@@ -1,2 +1,0 @@
-# MidianPortfolio
-Personal Website
